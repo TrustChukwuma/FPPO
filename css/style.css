@@ -6179,7 +6179,7 @@ button.bg-dark:focus {
 .mb-4,
 .my-4 {
   margin-bottom: 1.5rem !important;
-  color: #00a1ff !impportant;
+  color: #00a1ff !important;
   }
 
 .ml-4,
@@ -9191,4 +9191,3 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
-
